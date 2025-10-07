@@ -27,8 +27,9 @@
 ## Установка и запуск
 
 1. **Скомпилируйте программу:**
-   ```bash
-   csc MatrixCalculator.cs
+```bash
+  csc MatrixCalculator.cs
+```
 2. **Запустите исполняемый файл:**
   ```bash
   MatrixCalculator.exe
